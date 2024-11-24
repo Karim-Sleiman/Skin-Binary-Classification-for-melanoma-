@@ -1,7 +1,8 @@
-# 🖼️ Skin Lesion Binary Classification
+# 🖼️ Skin Lesion Binary Classification (PART 1)
 
 ## 📚 Overview
 Binary classification of skin lesions to distinguish **melanoma** (malignant) from **non-melanoma** (benign).
+This is a first part of a the Skin Lesion Classification project
 
 ## 🧰 Methods
 - **Preprocessing**: Intensity scaling, image resizing, black border and hair removal.
